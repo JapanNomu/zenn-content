@@ -1,11 +1,16 @@
 ---
-title: "モノリスからクラウドネイティブへ — 会話で学ぶアーキテクチャ転換"
+title: モノリスからクラウドネイティブへ — 会話で学ぶアーキテクチャ転換
 authors:
-  - "JapanNomu"
-emoji: "☁️"
-type: "tech"
-topics: ["GoogleCloud", "Kubernetes", "React", "FastAPI", "ClaudeCode"]
-published: false
+  - JapanNomu
+emoji: ☁️
+type: tech
+topics:
+  - GoogleCloud
+  - Kubernetes
+  - React
+  - FastAPI
+  - ClaudeCode
+published: true
 ---
 
 # モノリスからクラウドネイティブへ — 会話で学ぶアーキテクチャ転換
