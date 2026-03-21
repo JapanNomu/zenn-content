@@ -1,5 +1,7 @@
 ---
 title: Claude Codeは不正をする。それでも使うなら、仕組みで制御するしかない
+authors:
+  - JapanNomu
 emoji: "\U0001F512"
 type: tech
 topics:
