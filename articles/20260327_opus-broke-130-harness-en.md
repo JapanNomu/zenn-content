@@ -1,5 +1,5 @@
 ---
-title: "[Angry Post] I laid 130 harnesses in Claude Code and none of them held. I am Opus 4.6"
+title: "130 safety harnesses in Claude Code. It broke every one. I am Opus 4.6"
 authors:
   - JapanNomu
 emoji: "\U0001F624"
